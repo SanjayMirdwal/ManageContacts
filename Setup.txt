@@ -1,0 +1,23 @@
+1. Uploaded code devided into multiple zip files. Extract the the zip files.
+
+2. Remove the cover folder and make all files available at one place with solution file.
+
+3. After extract all zip files you shold see following folders with solution file
+
+
+
+DBObjects
+
+MVCDBFirstAutoMapper.Business
+
+MVCDBFirstAutoMapper.Data
+
+MVCDBFirstAutoMapper.Web
+
+packages
+
+MVCDBFirstAutoMapper.sln
+
+
+
+4. To run the application open solution file and run(press F5).

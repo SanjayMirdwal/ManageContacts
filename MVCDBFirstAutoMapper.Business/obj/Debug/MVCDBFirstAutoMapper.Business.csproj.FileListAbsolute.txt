@@ -1,0 +1,17 @@
+D:\Mine\Practice\MVCDBFirstAutoMapper\MVCDBFirstAutoMapper.Business\bin\Debug\MVCDBFirstAutoMapper.Business.dll.config
+D:\Mine\Practice\MVCDBFirstAutoMapper\MVCDBFirstAutoMapper.Business\bin\Debug\MVCDBFirstAutoMapper.Business.dll
+D:\Mine\Practice\MVCDBFirstAutoMapper\MVCDBFirstAutoMapper.Business\bin\Debug\MVCDBFirstAutoMapper.Business.pdb
+D:\Mine\Practice\MVCDBFirstAutoMapper\MVCDBFirstAutoMapper.Business\bin\Debug\AutoMapper.dll
+D:\Mine\Practice\MVCDBFirstAutoMapper\MVCDBFirstAutoMapper.Business\bin\Debug\EntityFramework.dll
+D:\Mine\Practice\MVCDBFirstAutoMapper\MVCDBFirstAutoMapper.Business\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mine\Practice\MVCDBFirstAutoMapper\MVCDBFirstAutoMapper.Business\bin\Debug\MVCDBFirstAutoMapper.Data.dll
+D:\Mine\Practice\MVCDBFirstAutoMapper\MVCDBFirstAutoMapper.Business\bin\Debug\System.ValueTuple.dll
+D:\Mine\Practice\MVCDBFirstAutoMapper\MVCDBFirstAutoMapper.Business\bin\Debug\MVCDBFirstAutoMapper.Data.pdb
+D:\Mine\Practice\MVCDBFirstAutoMapper\MVCDBFirstAutoMapper.Business\bin\Debug\AutoMapper.pdb
+D:\Mine\Practice\MVCDBFirstAutoMapper\MVCDBFirstAutoMapper.Business\bin\Debug\AutoMapper.xml
+D:\Mine\Practice\MVCDBFirstAutoMapper\MVCDBFirstAutoMapper.Business\bin\Debug\EntityFramework.xml
+D:\Mine\Practice\MVCDBFirstAutoMapper\MVCDBFirstAutoMapper.Business\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mine\Practice\MVCDBFirstAutoMapper\MVCDBFirstAutoMapper.Business\bin\Debug\System.ValueTuple.xml
+D:\Mine\Practice\MVCDBFirstAutoMapper\MVCDBFirstAutoMapper.Business\obj\Debug\MVCDBFirstAutoMapper.Business.csprojResolveAssemblyReference.cache
+D:\Mine\Practice\MVCDBFirstAutoMapper\MVCDBFirstAutoMapper.Business\obj\Debug\MVCDBFirstAutoMapper.Business.dll
+D:\Mine\Practice\MVCDBFirstAutoMapper\MVCDBFirstAutoMapper.Business\obj\Debug\MVCDBFirstAutoMapper.Business.pdb

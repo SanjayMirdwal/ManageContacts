@@ -1,0 +1,10 @@
+D:\Mine\Practice\MVCDBFirstAutoMapper\MVCDBFirstAutoMapper.Data\bin\Release\MVCDBFirstAutoMapper.Data.dll.config
+D:\Mine\Practice\MVCDBFirstAutoMapper\MVCDBFirstAutoMapper.Data\bin\Release\MVCDBFirstAutoMapper.Data.dll
+D:\Mine\Practice\MVCDBFirstAutoMapper\MVCDBFirstAutoMapper.Data\bin\Release\MVCDBFirstAutoMapper.Data.pdb
+D:\Mine\Practice\MVCDBFirstAutoMapper\MVCDBFirstAutoMapper.Data\bin\Release\EntityFramework.dll
+D:\Mine\Practice\MVCDBFirstAutoMapper\MVCDBFirstAutoMapper.Data\bin\Release\EntityFramework.SqlServer.dll
+D:\Mine\Practice\MVCDBFirstAutoMapper\MVCDBFirstAutoMapper.Data\bin\Release\EntityFramework.xml
+D:\Mine\Practice\MVCDBFirstAutoMapper\MVCDBFirstAutoMapper.Data\bin\Release\EntityFramework.SqlServer.xml
+D:\Mine\Practice\MVCDBFirstAutoMapper\MVCDBFirstAutoMapper.Data\obj\Release\MVCDBFirstAutoMapper.Data.csprojResolveAssemblyReference.cache
+D:\Mine\Practice\MVCDBFirstAutoMapper\MVCDBFirstAutoMapper.Data\obj\Release\MVCDBFirstAutoMapper.Data.dll
+D:\Mine\Practice\MVCDBFirstAutoMapper\MVCDBFirstAutoMapper.Data\obj\Release\MVCDBFirstAutoMapper.Data.pdb
